@@ -17,6 +17,11 @@ page 50102 "Voice Central Functions"
         {
             repeater(General)
             {
+                field(id; Rec.SystemId)
+                {
+                    Caption = 'Id';
+                    Editable = false;
+                }
                 field(description; Rec.Description)
                 {
                     Caption = 'Description';
@@ -40,26 +45,6 @@ page 50102 "Voice Central Functions"
                 field(parameter5name; Rec."Parameter 3 Name")
                 {
                     Caption = 'Parameter 3 Name';
-                }
-                field(systemCreatedAt; Rec.SystemCreatedAt)
-                {
-                    Caption = 'SystemCreatedAt';
-                }
-                field(systemCreatedBy; Rec.SystemCreatedBy)
-                {
-                    Caption = 'SystemCreatedBy';
-                }
-                field(systemId; Rec.SystemId)
-                {
-                    Caption = 'SystemId';
-                }
-                field(systemModifiedAt; Rec.SystemModifiedAt)
-                {
-                    Caption = 'SystemModifiedAt';
-                }
-                field(systemModifiedBy; Rec.SystemModifiedBy)
-                {
-                    Caption = 'SystemModifiedBy';
                 }
             }
         }
