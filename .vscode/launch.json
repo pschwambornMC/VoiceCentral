@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Eggert Worldwide",
+      "request": "launch",
+      "type": "al",
+      "environmentType": "Sandbox",
+      "environmentName": "Eggert_Worldwide",
+      "startupObjectId": 22,
+      "startupObjectType": "Page",
+      "breakOnError": "All",
+      "launchBrowser": true,
+      "enableLongRunningSqlStatements": true,
+      "enableSqlInformationDebugger": true
+    }
+  ]
+}
