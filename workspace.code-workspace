@@ -1,0 +1,103 @@
+{
+	"folders": [
+		{
+			"path": ".alpackages"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"al.codeAnalyzers": [
+			"${CodeCop}",
+			"${UICop}"
+		],
+		"al.enableCodeAnalysis": true,
+		"al.packageCachePath": [
+
+
+		], 
+		"al.snapshotOutputPath": "./.snapshots",
+		"modusm365.affixesToClean": [
+		
+		],
+		"al.enableCodeActions": true,
+
+		
+		
+		"modusm365.enableModusCop": true,
+		"modusm365.fileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>",
+		"modusm365.extensionFileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>",
+		"modusm365.customizationFileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>",
+		"modusm365.pathPattern": "src/<module>/<feature>/<type>/",
+		"modusm365.reorganizeBehavior": "GitWithFilesystemFallback",
+		"modusm365.actionAfterReorganize": "OpenNewFile",
+		"modusm365.allowBreakingChangesForAutoFix" :true,
+
+		"CRS.OnSaveAlFileAction": "Rename",
+		"CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternPageCustomizations": " <ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.RemovePrefixFromFilename": true,
+		"CRS.RenameWithGit": true,
+		"al-test-runner.sendDebugTelemetry": false,
+
+		"todo-tree.highlights.enabled": true,
+		"todo-tree.filtering.includeGlobs": [
+			"**/*.al",
+			"**/*.md",
+			"**/*.txt",
+			"**/*.ps1"
+		],
+		"files.exclude": {
+			"**/*.dep.app": true,
+			"**/addin/out": false,
+			"**/node_modules": true,
+			"**/package-lock.json": true,
+			"**/rad.json": true
+		},
+		"search.exclude": {
+			"**/*.app": true,
+			"**/.vscode/rad.json": true,
+			"**/.alcache/*": true,
+			"**/.altemplates/*": true,
+			"**/node_modules/": true,
+			"**/addin/out/*": true,
+			"**/controladdin/scripts/*": true,
+			"**/controladdin/stylesheets/*": true,
+			"**/package-lock.json": true,
+			"**/bower_components": true,
+			"**/*.code-search": true
+		},
+		"git-autoconfig.configList": [
+			{},
+			{            
+				"user.email": "klaus.schaefers@modusconsult.de",
+				"user.name": "Klaus Schäfers"
+			}
+		],
+		"git.openRepositoryInParentFolders": "always",
+		"editor.mouseWheelZoom": true
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Eggert Worldwide",
+				"request": "launch",
+				"type": "al",
+				"environmentType": "Sandbox",
+				"environmentName": "Eggert_Worldwide",
+				"startupObjectId": 22,
+				"startupObjectType": "Page",
+				"breakOnError": "All",
+				"launchBrowser": true,
+				"enableLongRunningSqlStatements": true,
+				"enableSqlInformationDebugger": true
+			  }
+	
+
+		],
+		"compounds": []
+	}
+}

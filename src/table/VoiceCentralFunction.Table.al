@@ -4,7 +4,7 @@ table 50100 "Voice Central Function"
 
     fields
     {
-        field(1; ID; Code[20])
+        field(1; "Function Name"; Enum "VoiceCentralFunctions")
         {
         }
         field(2; Description; Text[250])
@@ -19,14 +19,17 @@ table 50100 "Voice Central Function"
         field(5; "Parameter 3 Name"; Text[250])
         {
         }
-        field(6; "Codeunit-Id"; Integer)
+        field(6; "Parameter 4 Name"; Text[250])
+        {
+        }
+        field(7; "Parameter 5 Name"; Text[250])
         {
         }
     }
 
     keys
     {
-        key(PK; ID)
+        key(PK; "Function Name")
         {
             Clustered = true;
         }

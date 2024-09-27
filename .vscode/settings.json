@@ -1,0 +1,7 @@
+{
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}",
+        "${AnalyzerFolder}\\MC.Dynamics.Bc.Al.ModusCop.dll"
+    ]
+}

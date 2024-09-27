@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Voice Central">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 512835881 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Voice Central Function - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 512835881 - Field 971044367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Voice Central Function - Field Function Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 512835881 - Field 871141641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 1 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Voice Central Function - Field Parameter 1 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 512835881 - Field 3686334232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 2 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Voice Central Function - Field Parameter 2 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 512835881 - Field 1692297895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 3 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Voice Central Function - Field Parameter 3 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 512835881 - Field 4132583550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 4 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Voice Central Function - Field Parameter 4 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 512835881 - Field 1610969677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 5 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Voice Central Function - Field Parameter 5 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796355639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VoiceCentralFunctionCall</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VoiceCentralFunctionCall - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796355639 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VoiceCentralFunctionCall - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796355639 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VoiceCentralFunctionCall - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796355639 - Field 971044367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VoiceCentralFunctionCall - Field Function Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796355639 - Field 871141641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 1 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VoiceCentralFunctionCall - Field Parameter 1 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796355639 - Field 3686334232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 2 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VoiceCentralFunctionCall - Field Parameter 2 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796355639 - Field 1692297895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 3 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VoiceCentralFunctionCall - Field Parameter 3 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796355639 - Field 4132583550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 4 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VoiceCentralFunctionCall - Field Parameter 4 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796355639 - Field 1610969677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 5 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VoiceCentralFunctionCall - Field Parameter 5 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796355639 - Field 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VoiceCentralFunctionCall - Field Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VoiceCentralFunctions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 4232699882 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 4090395201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 1 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control parameter1name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 3844671944 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 2 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control parameter2name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 1208792079 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 3 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control parameter3name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 1043449694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 3 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control parameter4name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 932762341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter 3 Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control parameter5name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 1421298788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemCreatedAt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control systemCreatedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 591346850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemCreatedBy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control systemCreatedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 3092263724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control systemId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 4098519211 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemModifiedAt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control systemModifiedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 1436117145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemModifiedBy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control systemModifiedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1405698193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VoiceCentralFunction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VoiceCentralFunction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1405698193 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VoiceCentralFunction - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1405698193 - Control 971044367 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Function Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VoiceCentralFunction - Control Function Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1405698193 - Control 871141641 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Parameter 1 Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VoiceCentralFunction - Control Parameter 1 Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1405698193 - Control 3686334232 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Parameter 2 Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VoiceCentralFunction - Control Parameter 2 Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1405698193 - Control 1692297895 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Parameter 3 Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VoiceCentralFunction - Control Parameter 3 Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1405698193 - Control 4132583550 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Parameter 4 Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VoiceCentralFunction - Control Parameter 4 Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1405698193 - Control 1610969677 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Parameter 5 Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VoiceCentralFunction - Control Parameter 5 Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1546463426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VoiceCentralFunctionCalls</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VoiceCentralFunctionCalls - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2564677169 - EnumValue 3742370783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not create Segment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum VoiceCentralResultMessage - EnumValue CouldNoCreateSegmentLbl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2564677169 - EnumValue 3029379816 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Segment Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum VoiceCentralResultMessage - EnumValue CreatedSegementLbl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2564677169 - EnumValue 3523958139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Information could not ne found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum VoiceCentralResultMessage - EnumValue CustomerInformationNotFoundLbl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2564677169 - EnumValue 36157407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer could not be found.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum VoiceCentralResultMessage - EnumValue CustomerNotFoundLbl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2564677169 - EnumValue 354564258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interaction Template Code %1 not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum VoiceCentralResultMessage - EnumValue InteractionTemplateCodeNotFoundLbl - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

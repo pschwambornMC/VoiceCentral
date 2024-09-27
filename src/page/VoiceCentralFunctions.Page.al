@@ -1,6 +1,6 @@
 page 50102 "Voice Central Functions"
 {
-    APIGroup = 'VoiceCentral';
+    APIGroup = 'voiceCentral';
     APIPublisher = 'PSC';
     APIVersion = 'v2.0';
     Caption = 'VoiceCentralFunctions';
@@ -17,11 +17,7 @@ page 50102 "Voice Central Functions"
         {
             repeater(General)
             {
-                field(id; Rec.ID)
-                {
-                    Caption = 'ID';
-                }
-                field(Description; Rec.Description)
+                field(description; Rec.Description)
                 {
                     Caption = 'Description';
                 }
@@ -37,9 +33,13 @@ page 50102 "Voice Central Functions"
                 {
                     Caption = 'Parameter 3 Name';
                 }
-                field(codeunitid; Rec."Codeunit-Id")
+                field(parameter4name; Rec."Parameter 3 Name")
                 {
-                    Caption = 'Codeunit-Id';
+                    Caption = 'Parameter 3 Name';
+                }
+                field(parameter5name; Rec."Parameter 3 Name")
+                {
+                    Caption = 'Parameter 3 Name';
                 }
                 field(systemCreatedAt; Rec.SystemCreatedAt)
                 {

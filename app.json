@@ -3,7 +3,7 @@
   "name": "Voice Central",
   "publisher": "MODUS Consult GmbH",
   "version": "24.0.0.0",
-  "brief": "",
+  "brief": "Speech to BC",
   "description": "",
   "privacyStatement": "",
   "EULA": "",
@@ -26,5 +26,5 @@
     "includeSourceInSymbolFile": true
   },
   "runtime": "13.0",
-  "features": ["NoImplicitWith"]
+  "features": ["NoImplicitWith", "TranslationFile"]
 }
