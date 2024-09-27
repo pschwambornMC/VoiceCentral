@@ -48,6 +48,7 @@ codeunit 50101 GetCustomerInformation implements VoiceCentral
         if entityFound = false then
             exit;
 
+        ContactProfileAnswer.SetAutoCalcFields(Answer);
         ContactProfileAnswer.SetRange("Contact No.", Contact."No.");
         ContactProfileAnswer.SetFilter(Answer, '<>%1', '');
 

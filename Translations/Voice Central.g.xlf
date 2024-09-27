@@ -98,6 +98,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control description - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2070558592 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control id - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2070558592 - Control 4090395201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Parameter 1 Name</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -122,31 +127,6 @@
           <source>Parameter 3 Name</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control parameter5name - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2070558592 - Control 1421298788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>SystemCreatedAt</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control systemCreatedAt - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2070558592 - Control 591346850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>SystemCreatedBy</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control systemCreatedBy - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2070558592 - Control 3092263724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>SystemId</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control systemId - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2070558592 - Control 4098519211 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>SystemModifiedAt</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control systemModifiedAt - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2070558592 - Control 1436117145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>SystemModifiedBy</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Voice Central Functions - Control systemModifiedBy - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1405698193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>VoiceCentralFunction</source>
@@ -192,6 +172,11 @@
           <source>VoiceCentralFunctionCalls</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page VoiceCentralFunctionCalls - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1546463426 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VoiceCentralFunctionCalls - Control id - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2564677169 - EnumValue 3742370783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Could not create Segment</source>
