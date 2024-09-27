@@ -1,7 +1,7 @@
 codeunit 50101 GetCustomerInformation implements VoiceCentral
 {
 
-    procedure ExecuteCommand(customerNo: Text; customerName: Text; param3: Text; parm4: Text; param5: Text) result: Text
+    procedure ExecuteCommand(customerName: Text; customerNo: Text; param3: Text; parm4: Text; param5: Text) result: Text
     var
         customerNoToProcess: Code[20];
         customerNameToProcess: Text[100];
