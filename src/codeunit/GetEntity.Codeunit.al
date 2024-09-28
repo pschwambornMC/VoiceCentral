@@ -7,7 +7,7 @@ codeunit 50102 GetEntity
         customerFound := customer.Get(customerNo);
 
         if not customerFound then begin
-            customer.SetRange("Search Name", customerName);
+            customer.SetFilter(Name, '%1', '@*' + customerName + '*');
 
             if customer.Count > 1 then
                 exit;
